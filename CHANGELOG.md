@@ -7,3 +7,4 @@
 - Per-user `expireDays`, `limitIp`, and `totalGb` fields in `users.json`
 - `SUBSCRIPTION_PATH` env var for building subscription URLs
 - Subscription report printed at the end with URL per user
+- `requirements.txt` with `requests` dependency

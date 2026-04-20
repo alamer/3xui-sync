@@ -5,7 +5,7 @@ Bulk client provisioning for [3X-UI](https://github.com/MHSanaei/3x-ui) panels. 
 ## Requirements
 
 ```bash
-pip install requests
+pip install -r requirements.txt
 ```
 
 ## Setup
